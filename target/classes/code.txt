@@ -1,0 +1,12 @@
+begin
+    a, b : integer;
+    i : boolean;
+    a := 2;
+    writeln a;
+    b := 12 / 2;
+    while (a < 20) begin
+        a:= a + 1 end;
+    if (b == 6) begin
+        writeln (i)
+        end
+end
